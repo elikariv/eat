@@ -1,0 +1,21 @@
+{
+  "name": "save",
+  "version": "0.0.1",
+  "authors": [
+    "elikariv <elikariv@gmail.com>"
+  ],
+  "description": "First Bower Init",
+  "main": "eat",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
